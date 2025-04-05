@@ -8,5 +8,6 @@ How to use:
 4. Compile the Source code stored in the source directory: "javac source/*java"
 5. Run the compiled code from the same directory as follows: "java source.TreeVisualizer [1,2,3,null,4]"
 6. Substitute any small tree structure to visualize.
+7. Companion Youtube Video: https://youtu.be/4MZXXfVX_PE?si=dCEjqtmYREqNVpMJ
 
 Have fun!
