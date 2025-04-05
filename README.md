@@ -7,16 +7,6 @@ How to use:
 3. I am assuming you have the JDK installed, and the JAVA_HOME environment variable is set so that you can use it from the command line.
 4. Compile the Source code stored in the source directory: "javac source/*java"
 5. Run the compiled code from the same directory as follows: "java source.TreeVisualizer [1,2,3,null,4]"
-6. Espected result:
-Building tree from: [1,2,3,null,4]
-Levels: 3 Nodes: 4 max_tree_width: 4
-          1
-    _____________
-   /             \
-   2             3
- ______        ______
-/      \      /      \
--      4      -      -
-8. Substitute any small tree structure to visualize.
+6. Substitute any small tree structure to visualize.
 
 Have fun!
